@@ -8,9 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.4",
+    "daisyui": "^1.14.0",
+    "mongoose": "^6.0.7",
     "next": "latest",
+    "next-connect": "^0.10.2",
+    "next-themes": "^0.0.15",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-query": "^3.24.4",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.4",
